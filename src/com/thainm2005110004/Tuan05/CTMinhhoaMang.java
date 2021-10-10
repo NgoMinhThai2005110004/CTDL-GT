@@ -1,6 +1,6 @@
 package com.thainm2005110004.Tuan05;
 
-public class CTMinhHoaMang {
+public class CTMinhhoaMang {
     public static void main(String[] args) {
     int arr[] = {3,5,7,9};
     int n = arr.length;
